@@ -1,4 +1,4 @@
-# Comandos Básicos Terminal
+# Comandos Básicos Terminal 💻
 
 ## Windows
  - **cd** (change directory) mudar diretório.
