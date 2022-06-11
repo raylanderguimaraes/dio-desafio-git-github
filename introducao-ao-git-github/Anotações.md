@@ -1,6 +1,6 @@
 # Comandos Básicos Terminal 💻
 
-## Windows
+## Windows 🪟
  - **cd** (change directory) mudar diretório.
  - **cd ..**  retorna um nível.
  - **dir** listar diretórios
@@ -8,7 +8,7 @@
  - **del** deleta arquivo
  - **rmdir** (remove diretory) deleta diretório.
 
-## Linux
+## Linux 🐧
  - **cd** (change directory) mudar diretório.
  - **cd ..**  retorna um nível.
  - **ls** listar diretórios.
